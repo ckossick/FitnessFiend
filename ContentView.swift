@@ -13,8 +13,6 @@
  * ~Use data from profile to provide more insights into health
  * ~Film more/better videos
  * ~Make video page better organized
- * ~Make journal store data better, either work with SQL or
- * write to a .txt file, so workout can be accessed at a later date
  * ~Make calendar color changing, set workouts for specific dates
  * ~Add times to workout scheduled in advanced and send notifications
  * ~Hold milestones in calendar
